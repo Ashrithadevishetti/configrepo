@@ -1,0 +1,4 @@
+my:
+ greatlearning: Hello world!
+ list:
+   values:apple,banana,mango
