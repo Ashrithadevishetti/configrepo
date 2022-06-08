@@ -1,4 +1,4 @@
 my:
- greatlearning: Hello world!
+ greatlearning: Hello World!
  list:
-   values:apple,banana,mango
+   values: banana,mango,apple
